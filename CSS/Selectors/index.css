@@ -1,0 +1,30 @@
+/* Universal Selector 
+
+*{
+    color: #01060a;
+}
+    */
+
+
+    /* Element Selector
+    h2{
+        color: aqua;
+    } */
+
+
+    /* Classs Selector
+    .first{
+        color: blue;
+    } */
+
+/* 
+    Id Selector
+    #Second{
+        color: blueviolet;
+    } */
+
+
+input{
+    color: brown;
+}
+
